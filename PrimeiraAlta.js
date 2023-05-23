@@ -9,7 +9,7 @@ var minhaVar = 'oi'
 let minhaLet = 9.2
 // console.log(minhaLet);
 minhaLet = '9.2'
-// console.log(minhaLet);
+ console.log(minhaLet);
 
 
 
@@ -26,7 +26,8 @@ if (numeroNormal !== numeroString) {
 }
 
 // for (let i = 0; i < 10; i++) {
-//   console.log(i);
+  // console.log(i);
+
 // }
 
 var i = 0
