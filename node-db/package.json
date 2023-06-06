@@ -1,0 +1,18 @@
+{
+  "name": "express-node",
+  "version": "1.0.0",
+  "description": "Muito legal",
+  "main": "index.js",
+  "scripts": {
+    "dev": "env NODE_ENV=development nodemon src/index.js"
+  },
+  "author": "Gustavo B",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
